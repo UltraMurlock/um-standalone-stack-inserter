@@ -1,0 +1,10 @@
+{
+  "name": "um-standalone-stack-inserter",
+  "version": "1.0.0",
+  "author": "UltraMurlock",
+  "title": "Standalone Stack Inserter",
+  "description": "Add space age stack inserter as standalone.",
+  "dependencies": ["!space-age"],
+  "factorio_version": "2.0",
+  "space_travel_required": true
+}
